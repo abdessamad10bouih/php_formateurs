@@ -58,6 +58,6 @@ class Vacataire extends Personne
     }
 }
 
-// Test unitaire commenté
-// $v1 = new Vacataire(120,"gahi",'said',20,40,"3eme grade");
-// echo $v1->calcSalaire();
+// Test unitaire
+// $p1 = new Vacataire(120,"mohammed",'alhilali',10,30,"3eme grade");
+// echo $p1->calcSalaire();
