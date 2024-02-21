@@ -58,6 +58,5 @@ class Formateur extends Personne {
 }
 
 // Test unitaire commenté
-// Uncomment and modify values for testing
-// $f1 = new Formateur(120,"gahi",'said',20,40,6000,"3eme Grade");
+// $f1 = new Formateur(120,"badr",'koton',20,40,6000,"3eme Grade");
 // echo $f1->SalaireFix;
